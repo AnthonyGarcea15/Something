@@ -1,0 +1,21 @@
+margin: auto;
+div {
+width: 220px;
+height: 1500px;
+background-color: red;
+display: inline-grid;
+border: 2px solid black;
+border-radius: 10px;
+}
+#app{
+  background-color: Red;
+}
+#ss{
+  background-color: Blue;
+}
+#Main{
+  background-color: Red;
+}
+#Dess{
+  background-color: Blue;
+}

@@ -1,0 +1,47 @@
+div {
+  width: 220px;
+  height: 500px;
+  background-color: red;
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+#Liz {
+  background-color: Green;
+}
+
+#Croc {
+  background-color: Blue;
+}
+
+#Snake {
+  background-color: Red;
+}
+
+#Frog {
+  background-color: Green;
+}
+
+#Albino {
+  background-color: Blue;
+}
+
+#Turtle {
+  background-color: Red;
+}
+
+#Chameleon {
+    background-color: Green;
+}
+
+#Salamander {
+  background-color: Blue;
+}
+</div>
+div {
+  width: 500px
+  height: 200px
+}
+#map {
+  background-color: White;
+}
